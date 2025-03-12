@@ -3,4 +3,4 @@
 /.envrc
 /server.log
 /users.json
-/__pycache__
+/src/__pycache__
