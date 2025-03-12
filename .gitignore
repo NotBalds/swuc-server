@@ -1,0 +1,6 @@
+/venv
+/.env
+/.envrc
+/server.log
+/users.json
+/__pycache__
