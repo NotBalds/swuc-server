@@ -3,4 +3,6 @@
 /.envrc
 /server.log
 /users.json
+/users
 /src/__pycache__
+/.idea
