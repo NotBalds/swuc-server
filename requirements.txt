@@ -1,5 +1,12 @@
-asyncio==3.4.3
+certifi==2025.1.31
+charset-normalizer==3.4.1
+coincurve==21.0.0
+dotenv==0.9.9
+eciespy==0.4.4
+idna==3.10
+pycryptodome==3.22.0
+python-dotenv==1.1.0
+requests==2.32.3
+urllib3==2.4.0
+uuid==1.30
 websockets==15.0.1
-
-dotenv~=0.9.9
-python-dotenv~=1.0.1
