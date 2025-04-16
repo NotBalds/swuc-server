@@ -5,11 +5,8 @@ from .content_analyzer import ContentAnalyzer
 
 from dotenv import load_dotenv
 import os
-from logging import info, warning, error
-from typing import Dict, List
-
-# Configure logging
-
+from logging import info, error
+from typing import List
 
 class VersionFinder:
     def __init__(self):
