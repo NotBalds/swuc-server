@@ -37,7 +37,11 @@ class VersionFinder:
             "sources": [],
             "version": None,
             "error": None,
-            "analysis_time": None
+            "metadata": {
+                "urls_searched": 0,
+                "urls_analyzed": 0,
+                "analysis_time": None
+            }
         }
         
         try:
