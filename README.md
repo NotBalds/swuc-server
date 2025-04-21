@@ -101,7 +101,7 @@ Client configuration includes:
 
 ## Security
 
-- 🔐 ECC Encryption using `ecies` library
+- 🔐 ECC Encryption using `eciespy` library
 - 🔑 Unique key pair per user
 - 🛡️ Base64 encoding for all network communications
 
